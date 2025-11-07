@@ -1,6 +1,6 @@
 <!-- ✨  DHRUBAJIT CHAKRAVARTY ✨ -->
 <h1 align="center">Hey there 👋, I'm <span style="color:#00C2CB;">Dhrubajit Chakravarty</span></h1>
-<h3 align="center">🚀 Aspiring AI & ML Engineer | B.Tech CSE Student | Tech Enthusiast 💻</h3>
+<h3 align="center">🛡️ Aspiring Cyber Security Engineer | B.Tech CSE Student | Tech Enthusiast 💻</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=👨‍💻+First+Year+B.Tech+CSE+Student;💡+AI+%26+Machine+Learning+Learner;🔥+Coding+is+my+Superpower;🚀+Building+Tech+for+Tomorrow;💻+Python+%7C+C%2B%2B+%7C+AI+%7C+ML" alt="Typing SVG" />
@@ -10,8 +10,8 @@
 
 ### 💫 About Me
 - 🎓 I’m currently pursuing **B.Tech in Computer Science and Engineering**  
-- 🧠 Learning **Artificial Intelligence & Machine Learning**  
-- 🐍 Skilled in **Python, HTML, CSS, C, and C++**  
+- 🧠 Learning **Artificial Intelligence & Machine Learning, Cyber Security, Networking, and Ethical Hacking**  
+- 🐍 Skilled in **Python, HTML, CSS, C, C++, Java, Web Development**  
 - ⚡ Fun fact: I debug more than I sleep 😴  
 
 ---
